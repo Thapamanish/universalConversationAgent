@@ -34,7 +34,7 @@ the best results with these parameters. We trained and tested our model on NVIDI
 Finally the user can input one’s questions and converse with the chatbot. The results obtained are satisfactory according to review analysis.
 
 
-<img src="https://github.com/kushagra2101/ChatCrazie/blob/master/ChatCrazie%20GUI.jpeg" alt="Chatbot GUI" width="600" height="300">
+<img src="https://github.com/Thapamanish/universalConversationAgent/blob/master/Universal%20Conversation%20Agent.jpeg" alt="Chatbot GUI" width="600" height="300">
 
 =======
 
