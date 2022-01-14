@@ -1,13 +1,4 @@
-# ChatCrazie
-
-
-## Overview
-This is our ChatBot: ChatCraZie on Youtube. It starts with [this](https://youtu.be/0TGp_CrSSxg) video on Youtube.<br>
-
-A chatbot implemented using RNN and GloVe embeddings whch answers your query crazily
-<br>
-To download Glove Embeddings, go to this [LINK](http://nlp.stanford.edu/data/glove.6B.zip) <br>
-
+# Universal Conversation Agent
 
 =======
 ## PROBLEM STATEMENT 
@@ -45,7 +36,5 @@ Finally the user can input one’s questions and converse with the chatbot. The 
 
 <img src="https://github.com/kushagra2101/ChatCrazie/blob/master/ChatCrazie%20GUI.jpeg" alt="Chatbot GUI" width="600" height="300">
 
-This project was done under the Guidance of [Mr. Shreyans Jain](https://github.com/shreyanse081).<br> 
-### Submitted by: [Kushagra Goel](https://github.com/kushagra2101), [Anushree Jain](https://github.com/anushreejain98), [Akshita Gupta](https://github.com/akshitagupta114).
 =======
 
